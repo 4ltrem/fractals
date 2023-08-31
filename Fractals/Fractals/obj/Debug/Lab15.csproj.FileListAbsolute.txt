@@ -1,0 +1,79 @@
+C:\Users\Marco\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\Marco\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\Marco\Desktop\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\mlavoi\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\mlavoi\Desktop\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\mlavoi\Desktop\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\mlavoi\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\mlavoi\Desktop\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\mlavoi\Desktop\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+C:\Users\mlavoi\Desktop\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\mlavoi\Desktop\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\mlavoi\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.Cache
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.Cache
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\bin\Debug\Lab15.exe.config
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.exe
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.pdb
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\bin\Debug\Lab15.exe
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\bin\Debug\Lab15.pdb
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+E:\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.Cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Lab15_soln\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\marco\OneDrive\Bureau\ExclusionAVG\15430\Module #15\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\mtrem\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\mtrem\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\mtrem\Desktop\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\mtrem\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.AssemblyReference.cache
+C:\Users\mtrem\Desktop\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\mtrem\Desktop\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\mtrem\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\mtrem\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\mtrem\Desktop\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\mtrem\Desktop\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\Alex\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\Alex\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\Alex\Desktop\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\Alex\Desktop\Lab15\Lab15\obj\Debug\Lab15.pdb

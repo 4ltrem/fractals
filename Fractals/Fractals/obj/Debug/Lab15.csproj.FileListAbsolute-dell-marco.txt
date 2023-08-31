@@ -1,0 +1,12 @@
+C:\Users\Marco\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\Marco\Desktop\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\Marco\Desktop\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.MainForm.resources
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\Marco\Desktop\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\Marco\OneDrive\Documents\Cours\15430 - Algorithmes numériques\Marco\Module #15\Laboratoires\Lab15\Lab15\obj\Debug\Lab15.pdb
